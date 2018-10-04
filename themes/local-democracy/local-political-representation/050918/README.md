@@ -73,7 +73,7 @@ V = Vacant seat
 Due to the large numbers of councillors in the England representation changes over time and can only be considered correct as of 9th September 2018
 Although the data has been checked there maybe manual keying errors in this dataset - please let us know if you find an error or have any questions hello@opendatamanchester.org.uk
 
-Data source licenses
-[National Statistics data © Crown copyright and database right 2018](  
+## Data source licenses
+National Statistics data © Crown copyright and database right 2018
 [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 Open Data Manchester data CC-BY
