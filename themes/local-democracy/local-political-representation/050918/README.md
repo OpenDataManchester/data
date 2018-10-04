@@ -75,5 +75,7 @@ Although the data has been checked there maybe manual keying errors in this data
 
 ## Data source licenses
 National Statistics data © Crown copyright and database right 2018
+
 [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
 Open Data Manchester data CC-BY
