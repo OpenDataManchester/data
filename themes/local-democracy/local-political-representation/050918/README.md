@@ -1,10 +1,10 @@
-##Local Political Representation in England Datasets 050918
+# Local Political Representation in England Datasets 050918
 
 The datasets are an up date of Open Data Manchester's DEPvsREP dataset created on the 24th April 2018 prior to the local elections in England in May 2018.
 The dataset was split into three datasets and expanded to include [Electoral Commission political party identity codes](http://search.electoralcommission.org.uk)
 The data was collated by Pamilla Kang using python scraping scripts [Github repository](https://github.com/pkkang/Deprivation-in-England) and manually.
 
-#Datasets
+## Datasets
 **URL_LAD.csv - Webpage for councillor information, Local Authority District**
 Contains the following data for Local Authorities in England
 + LAD18NM - Name of Local authority
@@ -56,11 +56,11 @@ Contains
 
 +Office for National Statistics - [Interim Lower Layer Super Output Area 2011 to Ward to LAD May 2018 Lookup in England and Wales](http://geoportal.statistics.gov.uk/datasets/interim-lower-layer-super-output-area-2011-to-ward-to-lad-may-2018-lookup-in-england-and-wales)
 
-+Electoral Commission [Registered Party Database[(http://search.electoralcommission.org.uk/Search/Registrations?currentPage=1&rows=10&sort=RegulatedEntityName&order=asc&et=pp&et=ppm&et=tp&register=gb&register=ni&register=none&regStatus=registered&optCols=CampaigningName&optCols=EntityStatusName&optCols=ReferendumName&optCols=DesignationStatusName&optCols=CompanyRegistrationNumber&optCols=FieldingCandidatesInEngland&optCols=FieldingCandidatesInScotland&optCols=FieldingCandidatesInWales&optCols=FieldingCandidatesInEurope&optCols=FieldingCandidatesMinorParty&optCols=ReferendumOutcome)
++Electoral Commission [Registered Party Database](http://search.electoralcommission.org.uk/Search/Registrations?currentPage=1&rows=10&sort=RegulatedEntityName&order=asc&et=pp&et=ppm&et=tp&register=gb&register=ni&register=none&regStatus=registered&optCols=CampaigningName&optCols=EntityStatusName&optCols=ReferendumName&optCols=DesignationStatusName&optCols=CompanyRegistrationNumber&optCols=FieldingCandidatesInEngland&optCols=FieldingCandidatesInScotland&optCols=FieldingCandidatesInWales&optCols=FieldingCandidatesInEurope&optCols=FieldingCandidatesMinorParty&optCols=ReferendumOutcome)
 
 +Various council websites
 
-##COUNCILLOR POLITICAL AFFILIATION CODING
+## COUNCILLOR POLITICAL AFFILIATION CODING
 C = Conservative - Including Independent Conservatives and Conservative and Unionist
 L = Labour - Including Independent Labour and Labour and Cooperative
 LD = Liberal Democrat - Including Liberal Party
@@ -73,7 +73,9 @@ V = Vacant seat
 Due to the large numbers of councillors in the England representation changes over time and can only be considered correct as of 9th September 2018
 Although the data has been checked there maybe manual keying errors in this dataset - please let us know if you find an error or have any questions hello@opendatamanchester.org.uk
 
-Data source licenses
-[National Statistics data © Crown copyright and database right 2018](  
+## Data source licenses
+National Statistics data © Crown copyright and database right 2018
+
 [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+
 Open Data Manchester data CC-BY
