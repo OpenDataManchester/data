@@ -1,7 +1,5 @@
 ### These files are the bus fare tables released by TfGM under FOIA
 
-Dear Mr Tait 
- 
 REQUEST FOR INFORMATION UNDER THE FREEDOM OF INFORMATION ACT 
 2000 
  
