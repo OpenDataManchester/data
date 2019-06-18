@@ -1,4 +1,5 @@
 ###These files are the bus fare tables released by TfGM under FOIA
+
 Dear Mr Tait 
  
 REQUEST FOR INFORMATION UNDER THE FREEDOM OF INFORMATION ACT 
@@ -44,18 +45,4 @@ SK9 5AF
  
 www.informationcommissioner.gov.uk 
  
-Please remember to quote the above reference number in any future 
-communications. 
- 
-Yours sincerely 
- 
- 
-Nicola Tetley 
-Paralegal 
-Email: xxx@xxxx.xxx 
- 
- 
- 
- 
-190618 Response Letter 2019.0043 
-2 
+190618 Response Letter 2019.00432 
