@@ -23,6 +23,9 @@ The sensors only measure air-quality data and do not collect personally identifi
 - Ambient pressure (hPa)
 
 NO2 = Nitrogen Dioxide
+
 O3 = Ozone
+
 NO = Nitric Oxide
+
 PM = Particulate Matter
