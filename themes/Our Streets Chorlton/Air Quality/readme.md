@@ -12,12 +12,17 @@ The sensors only measure air-quality data and do not collect personally identifi
 
 - Temperature (C)
 - Humidity (%RH)
-- Nitrogen Dioxide NO2 (ug/m3)
-- Ozone O3 (ug/m3)
-- Nitric Oxide NO (ug/m3)
-- PM1(ug/m3)
-- PM2.5(ug/m3)
+- NO2 (ug/m3)
+- O3 (ug/m3)
+- NO (ug/m3)
+- PM1 (ug/m3)
+- PM2.5 (ug/m3)
 - PM10 (ug/m3)
 - Ambient temp (C)
 - Ambient humidity (%RH)
-- Ambient pressure (hPa
+- Ambient pressure (hPa)
+
+NO2 = Nitrogen Dioxide
+O3 = Ozone
+NO = Nitric Oxide
+PM = Particulate Matter
