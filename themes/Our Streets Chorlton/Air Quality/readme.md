@@ -4,8 +4,6 @@ The sensors will be measuring Nitrous Oxide (NO), Nitrous Dioxide (NO2), Ozone (
 
 One unit will be permanently located at Chorlton’s ‘Four Banks’ crossroad of Wilbraham Road and Barlow Moor Road, with the other rotated between the three chosen ‘mini project’ locations of a school, a trading area and a residential street.
 
-At the first mini project site, walking and cycling charity Sustains will be working with Barlow Hall Primary School, and the sensor will be located on a lamppost outside the school from early February 2021. The other two locations are yet to be decided.
-
 Open Data Manchester will be using the air-quality data to measure the changes in air quality over time, to help people understand how different activity affects the quality of the air that we breathe.
 
 All data collected will be made openly available for everyone to access, explore, use and share.
