@@ -1,0 +1,92 @@
+﻿From,To,Price
+Wigan (1),Wigan Pier (2),150
+Wigan (1),Saddle Junct (3),150
+Wigan (1),Mitchell St (4),150
+Wigan (1),Pembrton Stn (5),210
+Wigan (1),Culcross Av (6),250
+Wigan (1),St Aidan's (7),270
+Wigan (1),Marus Bdg (8),270
+Wigan (1),St Paul's Av (9),270
+Wigan (1),Holt St (10),270
+Wigan (1),Holborn Av (11),270
+Wigan (1),Tipping St (12),270
+Wigan (1),Wigan Pier (13),270
+Wigan (1),Wigan (14),270
+Wigan Pier (2),Saddle Junct (3),150
+Wigan Pier (2),Mitchell St (4),150
+Wigan Pier (2),Pembrton Stn (5),210
+Wigan Pier (2),Culcross Av (6),250
+Wigan Pier (2),St Aidan's (7),270
+Wigan Pier (2),Marus Bdg (8),270
+Wigan Pier (2),St Paul's Av (9),270
+Wigan Pier (2),Holt St (10),270
+Wigan Pier (2),Holborn Av (11),270
+Wigan Pier (2),Tipping St (12),270
+Wigan Pier (2),Wigan Pier (13),270
+Wigan Pier (2),Wigan (14),270
+Saddle Junct (3),Mitchell St (4),150
+Saddle Junct (3),Pembrton Stn (5),150
+Saddle Junct (3),Culcross Av (6),210
+Saddle Junct (3),St Aidan's (7),250
+Saddle Junct (3),Marus Bdg (8),250
+Saddle Junct (3),St Paul's Av (9),250
+Saddle Junct (3),Holt St (10),270
+Saddle Junct (3),Holborn Av (11),270
+Saddle Junct (3),Tipping St (12),270
+Saddle Junct (3),Wigan Pier (13),270
+Saddle Junct (3),Wigan (14),270
+Mitchell St (4),Pembrton Stn (5),150
+Mitchell St (4),Culcross Av (6),210
+Mitchell St (4),St Aidan's (7),210
+Mitchell St (4),Marus Bdg (8),250
+Mitchell St (4),St Paul's Av (9),250
+Mitchell St (4),Holt St (10),270
+Mitchell St (4),Holborn Av (11),270
+Mitchell St (4),Tipping St (12),270
+Mitchell St (4),Wigan Pier (13),270
+Mitchell St (4),Wigan (14),270
+Pembrton Stn (5),Culcross Av (6),150
+Pembrton Stn (5),St Aidan's (7),210
+Pembrton Stn (5),Marus Bdg (8),250
+Pembrton Stn (5),St Paul's Av (9),250
+Pembrton Stn (5),Holt St (10),270
+Pembrton Stn (5),Holborn Av (11),270
+Pembrton Stn (5),Tipping St (12),270
+Pembrton Stn (5),Wigan Pier (13),270
+Pembrton Stn (5),Wigan (14),270
+Culcross Av (6),St Aidan's (7),150
+Culcross Av (6),Marus Bdg (8),210
+Culcross Av (6),St Paul's Av (9),250
+Culcross Av (6),Holt St (10),250
+Culcross Av (6),Holborn Av (11),270
+Culcross Av (6),Tipping St (12),270
+Culcross Av (6),Wigan Pier (13),270
+Culcross Av (6),Wigan (14),270
+St Aidan's (7),Marus Bdg (8),150
+St Aidan's (7),St Paul's Av (9),210
+St Aidan's (7),Holt St (10),210
+St Aidan's (7),Holborn Av (11),250
+St Aidan's (7),Tipping St (12),250
+St Aidan's (7),Wigan Pier (13),270
+St Aidan's (7),Wigan (14),270
+Marus Bdg (8),St Paul's Av (9),150
+Marus Bdg (8),Holt St (10),150
+Marus Bdg (8),Holborn Av (11),210
+Marus Bdg (8),Tipping St (12),210
+Marus Bdg (8),Wigan Pier (13),250
+Marus Bdg (8),Wigan (14),250
+St Paul's Av (9),Holt St (10),150
+St Paul's Av (9),Holborn Av (11),150
+St Paul's Av (9),Tipping St (12),210
+St Paul's Av (9),Wigan Pier (13),250
+St Paul's Av (9),Wigan (14),250
+Holt St (10),Holborn Av (11),150
+Holt St (10),Tipping St (12),150
+Holt St (10),Wigan Pier (13),210
+Holt St (10),Wigan (14),250
+Holborn Av (11),Tipping St (12),150
+Holborn Av (11),Wigan Pier (13),150
+Holborn Av (11),Wigan (14),210
+Tipping St (12),Wigan Pier (13),150
+Tipping St (12),Wigan (14),150
+Wigan Pier (13),Wigan (14),150
